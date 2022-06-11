@@ -1,0 +1,12 @@
+/* body {
+  background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+    max-width: 100%;
+} */
+
+html {
+  width: 100%;
+}
